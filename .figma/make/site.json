@@ -1,0 +1,10 @@
+{
+  "description": "Learn essential CS2 game strategies with an interactive map and comprehensive tutorials on weapon usage, tailored for gamers seeking to improve their skills.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
